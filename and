@@ -1,7 +1,7 @@
 {
-    "name": "FASHION CLOTHES",
+    "name": "FASHION PLACE",
     "description": "NFT Description",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffunkyforty.com%2F10-top-tips-for-staying-fashionable-over-40%2F&psig=AOvVaw2LXVm9LvJamo6hkqrSyi_8&ust=1712518521898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjhpOSqroUDFQAAAAAdAAAAABAJ",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ffashionable-photos&psig=AOvVaw2LXVm9LvJamo6hkqrSyi_8&ust=1712518521898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjhpOSqroUDFQAAAAAdAAAAABAZ",
     "attributes": [
         {
             "trait_type": "Trait Name",
