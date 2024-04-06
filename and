@@ -4,12 +4,12 @@
     "image": "https://i.pinimg.com/736x/64/48/7b/64487b610775b07150872b613ad62f3d.jpg",
     "attributes": [
         {
-            "trait_type": "luxury clothes",
-            "value": " ZARA"
+            "trait_type": " ZARA",
+            "value": "Effortless Chic Linen Dress"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": " GUCCI",
+            "value": "On-trend Textured Knit Sweater"
         }
     ]
 }
