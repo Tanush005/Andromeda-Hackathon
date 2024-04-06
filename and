@@ -1,11 +1,11 @@
 {
     "name": "FASHION PLACE",
     "description": "NFT Description",
-    "image": "https://www.shutterstock.com/image-photo/high-fashion-portrait-young-elegant-260nw-268659464.jpg",
+    "image": "https://i.pinimg.com/736x/64/48/7b/64487b610775b07150872b613ad62f3d.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "luxury clothes",
+            "value": " ZARA"
         },
         {
             "trait_type": "Trait Name",
